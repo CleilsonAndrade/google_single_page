@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Clone de uma pagina resultados de busca do Google, desenvolvida para estudos sobre as propriedade de CSS display, flexbox, position e utilizando o pacote ícones Linearicons.
+Clone de uma pagina resultados de busca do Google, desenvolvida para estudos sobre as propriedade de CSS display, flexbox, position e utilizando o pacote ícones [**Linearicons**](https://linearicons.com/).
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
