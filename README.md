@@ -46,7 +46,7 @@ Clone de uma pagina resultados de busca do Google, desenvolvida para estudos sob
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/google_single_page
+  $ git clone https://github.com/CleilsonAndrade/google_single_page.git
   $ cd ./google_single_page
 ```
 
